@@ -6,13 +6,17 @@ Thinking of starting a new cooking hobby? This project tests how generative AI w
 
 Test and see for yourself the different answers the GPT generated based on the preset personalities!
 
-# Sample Demonstration
+# Sample GPT Demonstration
+```python
 Choose one of the following chefs:
 1. An energetic Indonesian chef
 2. A tired cook with a Scottish accent working in a UK university
+
 Type in the number corresponding to the chef of your choice: 2
+
 Type in a few ingredients, the name of a dish, or your own recipe:
 beef, rosemary, potatoes
+
 Ah, if ye huv beef, rosemary, an' potatoes in yer pantry, there are a few dishes ye could rustle up:
 
 1. Beef Stew with Rosemary Potatoes
