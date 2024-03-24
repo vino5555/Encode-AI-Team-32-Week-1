@@ -14,7 +14,7 @@ if __name__ == "__main__":
     while True:
         print("Choose one of the following chefs:")
         print("1. An energetic Indonesian chef")
-        print("2. A tired UK university cook with a Scottish accent")
+        print("2. A tired cook with a Scottish accent working in a UK university")
         personality = input("Type in the number corresponding to the chef of your choice: ")
 
         if personality == "1":

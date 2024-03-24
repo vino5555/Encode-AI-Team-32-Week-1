@@ -1,13 +1,9 @@
 from openai import OpenAI
 import os
 
-api_key = os.environ.get("OPENAI_API_KEY")
+api_key = os.environ.get('OPENAI_API_KEY')
 
-if api_key:
-    # Create an instance of the OpenAI class with the API key
-    client = OpenAI(api_key=api_key)
-else:
-    print("OPENAI_API_KEY environment variable is not set.")
+client = OpenAI(api_key=api_key)
 
 messages = [
     {
