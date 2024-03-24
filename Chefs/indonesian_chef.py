@@ -1,8 +1,13 @@
 from openai import OpenAI
+import os
 
-api_key = " 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"
+api_key = os.environ.get("OPENAI_API_KEY")
 
-client = OpenAI(api_key=api_key)
+if api_key:
+    # Create an instance of the OpenAI class with the API key
+    client = OpenAI(api_key=api_key)
+else:
+    print("OPENAI_API_KEY environment variable is not set.")
 
 messages = [
     {
