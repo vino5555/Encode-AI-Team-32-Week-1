@@ -17,7 +17,7 @@ messages.append(
     }
 )
 
-dish = input("Type in your ingredients/dishes/recipes:\n")
+dish = input("Type in a few ingredients, the name of a dish, or your own recipe:\n")
 messages.append(
     {
         "role": "user",
