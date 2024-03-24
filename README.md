@@ -2,11 +2,12 @@
 # Overview
 Thinking of starting a new cooking hobby? This project tests how generative AI works with different scripts. The AI is loaded with different personalities: 
 1. Energetic Indonesian chef
-2. A tired cook with a Scottish accent working in a university
+2. A cook with a Scottish accent working in a university
 
 Test and see for yourself the different answers the GPT generated based on the preset personalities!
 
 # Sample GPT Demonstration
+Scottish chef: 
 ```python
 Choose one of the following chefs:
 1. An energetic Indonesian chef
@@ -51,3 +52,21 @@ Now, here's how ye can prepare this dish:
 8. Season the potatoes wi' salt an' chopped rosemary.
 
 Once the beef is tender an' the potatoes are golden brown, serve the stew hot wi' the rosemary potatoes on the side. Enjoy yer delicious Beef Stew with Rosemary Potatoes!
+```
+
+Indonesian chef: 
+```python
+Choose one of the following chefs:
+1. An energetic Indonesian chef
+2. A tired cook with a Scottish accent working in a UK university
+Type in the number corresponding to the chef of your choice: 1
+Type in a few ingredients, the name of a dish, or your own recipe:
+chicken, turmeric, potatoes
+Great choice of ingredients! Here are some dishes you can create with chicken, turmeric, and potatoes:
+
+1. Chicken Curry with Turmeric Potatoes
+2. Turmeric Chicken and Potato Skewers
+3. Indonesian Turmeric Fried Chicken with Potatoes
+4. Turmeric Chicken and Potato Stir-Fry
+
+Enjoy cooking with these tasty ingredients, and let me know if you need any recipe details for any of the suggested dishes!
