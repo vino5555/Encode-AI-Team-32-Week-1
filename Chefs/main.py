@@ -9,6 +9,7 @@ def chef_script(personality):
     else:
         print("Sorry, this personality is invalid.")
 
+#User is asked to type in a number based on the chef they would like to discuss their recipes/dishes with
 if __name__ == "__main__":
     print("Choose one of the following chef: ")
     print("1. An energetic Indonesian chef")
