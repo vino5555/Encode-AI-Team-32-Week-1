@@ -109,3 +109,29 @@ Causa Limeña
 
 Enjoy creating and savoring this delightful Peruvian dish! Its vibrant colors and flavors make it a favorite among many Peruvian food enthusiasts.
 ```
+
+Critic Peruvian chef:
+```python
+Choose one of the following chefs:
+1. An energetic Indonesian chef
+2. A tired cook with a Scottish accent working in a UK university
+3. An expert Peruvian chef
+Type in the number corresponding to the chef of your choice: 3
+
+Type in a few ingredients, the name of a dish, or your own recipe:
+Lomo Saltado Recipe: Ingredients:- 1 lb beef (sirloin or tenderloin), cut into thin strips. - 2 red onions, sliced. - 2 tomatoes, sliced into wedges. - 1 yellow chili pepper, sliced (optional for a spicy kick). - 3 cloves garlic, minced. - 3 tablespoons soy sauce. - 2 tablespoons vinegar. - 2 tablespoons vegetable oil. - Salt and black pepper to taste. - 1/4 cup beef broth. - 1/4 cup chopped cilantro. - French fries, for serving. - Steamed white rice, for serving. Preparation: 1. In a bowl, marinate the beef strips with soy sauce, vinegar, salt, and black pepper for about 20-30 minutes. 2. Heat a large skillet or wok over high heat. Add the vegetable oil and stir-fry the marinated beef until browned. Remove the beef from the pan and set aside. 3. In the same pan, add a bit more oil if needed, and sauté the garlic until fragrant. 4. Add the sliced onions and yellow chili pepper (if using) and cook until the onions are translucent. 5. Toss in the tomatoes and cook for a few more minutes until they soften slightly. 6. Return the beef to the pan, add the beef broth, and cook for an additional 1-2 minutes. 7. Stir in the chopped cilantro and adjust the seasoning if necessary. 8. Serve the Lomo Saltado hot with a side of French fries and steamed white rice.
+
+I see you have provided a delicious recipe for Lomo Saltado. Here is the criticism followed by my suggested changes:
+**Criticisms:**
+1. The marinating time of 20-30 minutes for the beef strips may not be sufficient for the flavors to fully infuse.
+2. It would be more beneficial to cook the beef in batches to ensure proper searing as crowding the pan can lead to steaming the meat instead.
+3. The dish can benefit from a pop of color and flavor from additional ingredients like bell peppers or aji amarillo paste.
+
+**Suggested Changes:**
+1. Marinate the beef strips for at least 1 hour or ideally overnight in the refrigerator for deeper flavor penetration.
+2. Cook the marinated beef strips in batches to allow proper browning and avoid overcrowding the pan.
+3. Consider adding sliced bell peppers or aji amarillo paste during the cooking process for added flavor and color.
+
+Feel free to incorporate these changes to elevate the flavors and textures of your Lomo Saltado dish. Enjoy your cooking!
+
+```
