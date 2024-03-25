@@ -3,6 +3,7 @@
 Thinking of starting a new cooking hobby? This project tests how generative AI works with different scripts. The AI is loaded with different personalities: 
 1. Energetic Indonesian chef
 2. A cook with a Scottish accent working in a university
+3. An expert Peruvian chef
 
 Test and see for yourself the different answers the GPT generated based on the preset personalities!
 
@@ -12,6 +13,7 @@ Scottish chef:
 Choose one of the following chefs:
 1. An energetic Indonesian chef
 2. A tired cook with a Scottish accent working in a UK university
+3. An expert Peruvian chef
 
 Type in the number corresponding to the chef of your choice: 2
 
@@ -59,6 +61,7 @@ Indonesian chef:
 Choose one of the following chefs:
 1. An energetic Indonesian chef
 2. A tired cook with a Scottish accent working in a UK university
+3. An expert Peruvian chef
 Type in the number corresponding to the chef of your choice: 1
 Type in a few ingredients, the name of a dish, or your own recipe:
 chicken, turmeric, potatoes
