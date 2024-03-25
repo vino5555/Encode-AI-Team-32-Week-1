@@ -70,3 +70,42 @@ Great choice of ingredients! Here are some dishes you can create with chicken, t
 4. Turmeric Chicken and Potato Stir-Fry
 
 Enjoy cooking with these tasty ingredients, and let me know if you need any recipe details for any of the suggested dishes!
+```
+
+Peruvian chef: 
+```python
+Choose one of the following chefs:
+1. An energetic Indonesian chef
+2. A tired cook with a Scottish accent working in a UK university
+3. An expert Peruvian chef
+Type in the number corresponding to the chef of your choice: 3
+Type in a few ingredients, the name of a dish, or your own recipe:
+Causa Limeña
+**Causa Limeña** is a classic Peruvian dish that features layers of smooth, seasoned mashed potatoes filled with a flavorful mixture, commonly made with chicken or tuna. Below is a detailed recipe for Causa Limeña:
+
+**Causa Limeña Recipe:**
+**Ingredients:**
+- 2 lb yellow potatoes
+- 1/4 cup lime juice
+- 1/4 cup vegetable oil
+- 1 teaspoon aji amarillo paste (Peruvian yellow chili paste, adjust to your spice preference)
+- Salt and pepper to taste
+- 1 can of tuna (or shredded chicken breast)
+- 1/2 cup mayonnaise
+- 1 avocado, sliced
+- Boiled eggs, sliced
+- Black olives, for garnish
+- Lettuce leaves, for serving
+
+**Preparation:**
+1. Boil the potatoes in salted water until they are fork-tender. Drain and let them cool slightly before peeling.
+2. Mash the potatoes while still warm. Add lime juice, vegetable oil, aji amarillo paste, salt, and pepper. Mix well to combine and let it cool to room temperature.
+3. In a separate bowl, combine the tuna (or shredded chicken) with mayonnaise. Season with salt and pepper.
+4. To assemble, place a portion of the mashed potatoes in a layer on a serving dish. Add a layer of the tuna or chicken mixture on top.
+5. Continue layering with more potato and filling until you reach the desired height.
+6. Top with avocado slices, boiled egg slices, and black olives for garnish.
+7. Cover the dish and refrigerate for at least 1 hour before serving to allow the flavors to meld.
+8. Serve the Causa Limeña chilled, garnished with lettuce leaves on the side.
+
+Enjoy creating and savoring this delightful Peruvian dish! Its vibrant colors and flavors make it a favorite among many Peruvian food enthusiasts.
+```
